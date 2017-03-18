@@ -2,7 +2,7 @@
 
 There are two plugins in this repository.
 
-# 1. Anti block place plugin:
+# 1. Anti block place plugin
 That exists out of antiblock.java and blocklisner.java
 
 The Idea of this plugin is that if you have permissions, you can build and brake and if you dont have those permissions you can not build and brake stuff.
